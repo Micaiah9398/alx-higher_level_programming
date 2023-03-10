@@ -6,12 +6,12 @@ if n == 0:
     return
 else:
     if n == 1:
-        print("{:d} argument.".format(n))
+        print("{:d} argument:".format(n))
     else
-    print("{:d} argument.".format(n))
+    print("{:d} argument:".format(n))
     i = 1
     while i <= n:
-        print("{:d}:{:s}.".format(i, argv[i]))
+        print("{:d}: {:s}".format(i, argv[i]))
         i += 1
 
         if __name__ == "__main__":
