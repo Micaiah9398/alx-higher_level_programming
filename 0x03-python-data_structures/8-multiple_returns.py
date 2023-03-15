@@ -1,6 +1,10 @@
 #!/usr/bin/python3
-def add_tuple(tuple_a=(), tuple_b=()):
-    length = len(sentence)
-    first_char = sentence[0] if length > 0 else "None"
-    mic = length, first_char
-    return(mic)
+def multiple_returns(sentence):
+    len_sen = len(sentence)
+
+    if (len_sen == 0):
+        new_tuple = (len_sen, None)
+    else:
+        new_tuple = (len_sen, sentence[0])
+
+    return (new_tuple)
