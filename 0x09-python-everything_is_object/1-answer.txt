@@ -1,4 +1,3 @@
-#!/usr/pbin/python3
 my_variable_x = 2
 my_variable_y = "Hi, Am micaiah!"
 my_variable_z = [1,2,3,4,5,6]
