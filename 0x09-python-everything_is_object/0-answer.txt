@@ -1,7 +1,1 @@
-#!/usr/bin/python3
-a = 40
-b = "Hi, my name is Micaiah!"
-c = [1,2,3,4,5]
-print(a.__class__.name__) #prints "int"
-print(a.__class__.name__) #prints "str"
-print(a.__class__.name__) #prints "list"
+type
