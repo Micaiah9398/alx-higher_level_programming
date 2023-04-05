@@ -1,0 +1,12 @@
+#!/usr/pbin/python3
+my_variable_x = 2
+my_variable_y = "Hi, Am micaiah!"
+my_variable_z = [1,2,3,4,5,6]
+# get the memory address of each varaiable identifier of the object.
+var_x_id = id(my_variable_x)
+var_x_id = id(my_variable_y)
+var_x_id = id(my_variable_z)
+# print the memory address
+print(f"the memory address of my_variable_x is: {var_x_id}")
+print(f"the memory address of my_variable_x is: {var_y_id}")
+print(f"the memory address of my_variable_x is: {var_z_id}")
