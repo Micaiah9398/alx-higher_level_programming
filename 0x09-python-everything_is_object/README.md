@@ -1,0 +1,1 @@
+######In Python, an object is a basic unit of data that represents a real-world entity, such as a number, string, list, or custom-defined data structure. In Python, everything is an object, including built-in data types, user-defined classes, and even functions.
