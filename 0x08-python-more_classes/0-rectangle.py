@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-''' a class that declears an empty rectangle'''
+""" empty class Rectangle that defines a rectangle
+"""
 
-class rectangle:
 
-
-    '''class rectangle'''
-
+class Rectangle:
+    """ class rectangle"""
     pass
