@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+''' a class that declears an empty rectangle'''
+
 class rectangle:
-    def__init__(self,width,heigth):
-        self.width = width
-        self.heigth = heigth
+
+
+    '''class rectangle'''
+
+    pass
