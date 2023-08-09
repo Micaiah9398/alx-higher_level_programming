@@ -1,1 +1,2 @@
+ In this project, I began utilizing conditionals and loops in Python by using if, if ... else, break, continue, pass, and range statements with while and for loops. I practiced writing my own Python functions while learning about scope of variables, tracebacks, and arithmetic operators.
 This task is been focus on contradictions between numbers by given directives on the one that is accepted to play a particular role or function in form of negative or positive etc.
