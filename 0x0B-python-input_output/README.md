@@ -1,0 +1,1 @@
+######"input" is the data you provide to a program, and "output" is the result or response that the program generates based on the provided input. These concepts are fundamental in understanding how programs work and how they interact with users and other systems.
